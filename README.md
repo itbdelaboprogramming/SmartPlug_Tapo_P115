@@ -2,8 +2,6 @@
 
 A python program for controlling smart plug Tapo P115 and monitoring the kWh analytic values, and also displaying into mini GUI (Tkinter)
 
-![image](https://github.com/user-attachments/assets/1170e538-8b2b-42f3-8713-2982a3113c73)
-
 ## Requirements
 
 - Python 3.7+
